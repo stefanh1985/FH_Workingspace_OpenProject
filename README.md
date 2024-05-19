@@ -111,6 +111,89 @@ https://www.tu-chemnitz.de/urz/groupware/tucproject/OpenProject_Grundlagenschulu
 ## 🫅 Administrator*innenperspektive
 https://www.openproject.org/de/docs/grundlagen/
 
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+```markdown
+# OpenProject FAQ
+
+## Fragen und Antworten
+
+<details>
+<summary>Was ist OpenProject?</summary>
+OpenProject ist eine Software zur Projektverwaltung und Zusammenarbeit, die dir hilft, Projekte effizient zu planen, zu verfolgen und zu steuern.
+</details>
+
+<details>
+<summary>Wie melde ich mich bei OpenProject an?</summary>
+1. Öffne deinen Webbrowser und gehe zur OpenProject-Website.
+2. Klicke auf den "Anmelden" Button.
+3. Gib deinen Benutzernamen und dein Passwort ein und klicke auf "Login".
+</details>
+
+<details>
+<summary>Wie erstelle ich ein neues Projekt?</summary>
+1. Nach dem Anmelden, klicke im Hauptmenü auf "Projekte".
+2. Wähle "Neues Projekt" aus.
+3. Gib die erforderlichen Informationen wie den Projektnamen ein und klicke auf "Erstellen".
+</details>
+
+<details>
+<summary>Wie füge ich Mitglieder zu einem Projekt hinzu?</summary>
+1. Öffne das Projekt, dem du Mitglieder hinzufügen möchtest.
+2. Klicke auf "Mitglieder" im Seitenmenü.
+3. Klicke auf "Mitglied hinzufügen" und gib die E-Mail-Adresse oder den Namen der Person ein.
+4. Wähle die passende Rolle aus und klicke auf "Hinzufügen".
+</details>
+
+<details>
+<summary>Wie erstelle ich eine Aufgabe?</summary>
+1. Gehe in das gewünschte Projekt.
+2. Klicke auf "Arbeitspakete" im Seitenmenü.
+3. Klicke auf "Arbeitspaket erstellen".
+4. Gib alle notwendigen Details wie Titel, Beschreibung und Fälligkeitsdatum ein.
+5. Klicke auf "Speichern".
+</details>
+
+<details>
+<summary>Wie verfolge ich den Fortschritt eines Projekts?</summary>
+1. Gehe in das gewünschte Projekt.
+2. Klicke auf "Gantt-Diagramm" im Seitenmenü, um einen Überblick über den Zeitplan und den Fortschritt zu erhalten.
+3. Alternativ kannst du "Arbeitspakete" verwenden, um den Status einzelner Aufgaben zu sehen.
+</details>
+
+<details>
+<summary>Wie kann ich Benachrichtigungen einstellen?</summary>
+1. Klicke auf deinen Benutzernamen oben rechts und wähle "Mein Konto".
+2. Gehe zu "Benachrichtigungen".
+3. Aktiviere oder deaktiviere die gewünschten Benachrichtigungen.
+4. Klicke auf "Speichern".
+</details>
+
+<details>
+<summary>Was soll ich tun, wenn ich mein Passwort vergessen habe?</summary>
+1. Gehe zur Anmeldeseite und klicke auf "Passwort vergessen?".
+2. Gib deine E-Mail-Adresse ein und klicke auf "Absenden".
+3. Folge den Anweisungen in der E-Mail, um dein Passwort zurückzusetzen.
+</details>
+
+<details>
+<summary>Wie ändere ich meine Profilinformationen?</summary>
+1. Klicke auf deinen Benutzernamen oben rechts und wähle "Mein Konto".
+2. Gehe zu "Profil".
+3. Bearbeite die gewünschten Informationen und klicke auf "Speichern".
+</details>
+
+<details>
+<summary>Wie melde ich ein Problem oder einen Fehler?</summary>
+1. Klicke auf "Hilfe" im Seitenmenü.
+2. Wähle "Support kontaktieren".
+3. Beschreibe das Problem oder den Fehler so detailliert wie möglich und klicke auf "Absenden".
+</details>
+
+```
+
+
 # ❣️ Best Practice Beispiel(e)
 
 
